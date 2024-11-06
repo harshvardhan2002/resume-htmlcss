@@ -1,2 +1,2 @@
-## This is the version-1 of the Resume
-## It has a different version of the resume that consists of an updated profile picture on top of resume with some other minor changes
+This is the main branch
+All the changes will be done on it creating different versions of it using commands like checkout, add and push
